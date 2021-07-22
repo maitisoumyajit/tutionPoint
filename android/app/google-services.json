@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704374668516",
+    "project_id": "tution-point-demo",
+    "storage_bucket": "tution-point-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704374668516:android:61d8667aeeae3e191940f1",
+        "android_client_info": {
+          "package_name": "com.example.tution_point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704374668516-1vqr977g6gsb9f7067fk5j1d9eofgk1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZeC22L1X9KdbMaXkcnqpXGu_F7o55Vc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704374668516-1vqr977g6gsb9f7067fk5j1d9eofgk1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
